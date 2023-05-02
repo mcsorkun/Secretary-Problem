@@ -8,7 +8,7 @@ This repository contains simulation codes for three cases of the standard Secret
 - [partial-information case](https://github.com/mcsorkun/Secretary-Problem/blob/main/PSP_simulation.ipynb)
 
 
-The simulations are conducted on both generated data and real data (Dutch Exam Scores) [1].
+The simulations has been conducted on both generated data and real data (Dutch Exam Scores) [1].
 
 
 **Contact:** [Murat Cihan Sorkun](https://www.linkedin.com/in/murat-cihan-sorkun/)
